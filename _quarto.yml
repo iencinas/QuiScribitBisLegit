@@ -3,10 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "QuiScribitBisLegit"
+  title: "Qui Scribit Bis Legit"
   navbar:
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/iencinas
       - href: test.qmd
