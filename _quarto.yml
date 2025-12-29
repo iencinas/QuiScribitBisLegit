@@ -10,7 +10,7 @@ website:
       - icon: github
         href: https://github.com/iencinas
       - href: test.qmd
-        test: testtest
+        text: testtest
 
 format:
   html:
